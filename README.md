@@ -47,4 +47,32 @@ Para rodar o programa, você precisa seguir esses passos:
     ![readyplay_2_resultado](https://github.com/Gael1512/readyplay/assets/52392583/52d4cd6e-6435-4cb0-9776-a0df24a82b4c)
 
 
-   
+
+## Instalação e Execução do Programa ⬇️
+
+   Para executar o programa, você precisa abrir no seu navegador, o endereço "localhost/" e escolher a pasta do projeto, dessa forma irá abrir na página de Cadastro, que por enquanto, é a pagina index do programa (ou pagina inicial se preferir):
+
+  ![readyplay_3](https://github.com/Gael1512/readyplay/assets/52392583/b42c3f4e-d2d9-4327-92e3-91470d4a19bf)
+  ![readyplay_3 1](https://github.com/Gael1512/readyplay/assets/52392583/a35bacce-1d2a-46a4-ad03-6b17ac5ffd3f)
+
+
+  E então, o que se pode fazer no programa atual? (Será seguida as etapas do **CRUD**(**C**reate, **R**ead, **U**pdate, **D**elete) :
+
+
+   ### Cadastro (**C**REATE)
+
+    Nossa página principal atualmente é o Cadastro. Nele, é preciso que você preencha todas as informações corretamente, para que não aconteça nenhum infortúnio:
+
+    
+    ![readyplay_4](https://github.com/Gael1512/readyplay/assets/52392583/68f30c43-9822-4372-8246-7db3b9451fcc)
+
+
+    Após tudo preenchido corretamente, basta clicar em "Enviar" para ser cadastrado com sucesso! :
+
+
+    
+    ![readyplay_4 1](https://github.com/Gael1512/readyplay/assets/52392583/05d0ab02-a471-42d6-970e-79a64a0f48fc)
+
+
+  
+  
