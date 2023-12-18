@@ -48,7 +48,7 @@ Para rodar o programa, você precisa seguir esses passos:
 
 
 
-## Instalação e Execução do Programa ⬇️
+## Instalação e Execução do Programa (Como funciona o programa como Cadastro / CRUD) ⬇️✅
 
    Para executar o programa, você precisa abrir no seu navegador, o endereço "localhost/" e escolher a pasta do projeto, dessa forma irá abrir na página de Cadastro, que por enquanto, é a pagina index do programa (ou pagina inicial se preferir):
 
@@ -72,7 +72,72 @@ Para rodar o programa, você precisa seguir esses passos:
    
        
        ![readyplay_4 1](https://github.com/Gael1512/readyplay/assets/52392583/05d0ab02-a471-42d6-970e-79a64a0f48fc)
+
+
+
+       Com isso, você será reedirecionado para a próxima página, que nos leva para a nossa próxima etapa.
+
+
+
+  - ***LISTAGEM*** (***R***EAD):
+
+
+       Nesta página, você consegue verificar todos os usuários cadastrados no nosso banco de dados. E, atráves dessa listagem de usuários, você consegue *editar-los* ou *excluir-los*:
    
+       
+       
+       ![readyplay_5](https://github.com/Gael1512/readyplay/assets/52392583/ae0e969c-0875-4f1d-a73b-ad25b42ea9ff)
+
+
+
+       Clicando em "editar", a página irá nos reedirecionar para uma página um tanto quanto familiar... mas, que sua intenção é totalmente diferente. Isso nos leva a nossa próxima etapa.
+
+
+  - ***EDITAR USUÁRIOS*** (***U***pdate):
+
+
+       Perceba que essa página é bem parecida com a de Cadastro, entretanto, precisamos das informações do cadastro para poder editar-los. Afinal, como posso mudar algo sem lembrar o           que já está cadastrado previamente? Então, após o usuário alterar o que deseja (Vou atribuir ao nome o número "9999"), basta clicar em "enviar" novamente:
+
+       OBS: As partes de "gênero" e a de "senha" precisam **obrigatoriamente** ser preenchidas novamente, pois ainda existe algumas falhas no programa.
+
+
+       ![readyplay_6](https://github.com/Gael1512/readyplay/assets/52392583/66d877bd-6112-4447-8d2b-58f2178a2326)
+
+
+    Após clicar em "enviar", perceba que a página apenas atualizou e que qualquer alteração feita, aparentemente, não teve sucesso. Porém, isso é apenas mais uma falha no código.
+
+    Se você clicar em "Lista de Usuários" no canto esquerdo da página, vai ser levado para a página de listagem de usuários... E, então, perceberá que o nome foi alterado sim no banco       de dados.
+
+   
+       ![readyplay_7](https://github.com/Gael1512/readyplay/assets/52392583/ab77ffc6-94fb-4442-a66c-e22d7b119444)
+       ![readyplay_7 1](https://github.com/Gael1512/readyplay/assets/52392583/10ffc783-1d7b-4e9a-accf-f39590b72724)
+
+
+    Agora que voltamos à página de listagem, podemos seguir à nossa última etapa. Clique em "Excluir" e veja a mágica!!!!
+
+
+   
+  - ***EXCLUIR USUÁRIOS*** (***D***elete):
+
+
+     Ué? a página atualizou e não tem mais nada na lista?
+
+     Acontece que o programa simplesmente deletou o usuário do banco de dados. E para excluir, não é preciso uma página, apenas um clique e está feito.
+
+
+     ![readyplay_8](https://github.com/Gael1512/readyplay/assets/52392583/7157884d-d6df-448d-9844-0ccde62afa77)
+
+
+
+
+## ⚠️ Problemas ⚠️
+
+ 1. Como percebido, o programa não tem uma página inicial... Ele abre na página de Cadastro.
+ 2. No menu esquerdo da tela, as opções a seguir não funcionam: Inicio, Jogos e Contato.
+ 3. Após Editar o cadastro, a página atualiza com as informações anteriores, o que talvez deixe o usuário confuso, entretanto o cadastro foi atualizado como explicado acima.
+ 4. A página não têm responsividade para outros aparelhos eletrônicos, Então ela pode se quebrar dependendo de onde for acessada.
+
+    Esses são problemas cientes pelos Devs, que irão ser resolvidos numa futura e possível atualização.
 
   
   
