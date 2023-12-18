@@ -59,7 +59,7 @@ Para rodar o programa, você precisa seguir esses passos:
   E então, o que se pode fazer no programa atual? (Será seguida as etapas do **CRUD**(**C**reate, **R**ead, **U**pdate, **D**elete) :
 
 
-  - Cadastro (**C**REATE):
+  - ***CADASTRO*** (***C***REATE):
 
        Nossa página principal atualmente é o Cadastro. Nele, é preciso que você preencha todas as informações corretamente, para que não aconteça nenhum infortúnio:
    
