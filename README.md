@@ -59,20 +59,20 @@ Para rodar o programa, você precisa seguir esses passos:
   E então, o que se pode fazer no programa atual? (Será seguida as etapas do **CRUD**(**C**reate, **R**ead, **U**pdate, **D**elete) :
 
 
-   ### Cadastro (**C**REATE)
+  - Cadastro (**C**REATE):
 
-    Nossa página principal atualmente é o Cadastro. Nele, é preciso que você preencha todas as informações corretamente, para que não aconteça nenhum infortúnio:
-
-    
-    ![readyplay_4](https://github.com/Gael1512/readyplay/assets/52392583/68f30c43-9822-4372-8246-7db3b9451fcc)
-
-
-    Após tudo preenchido corretamente, basta clicar em "Enviar" para ser cadastrado com sucesso! :
-
-
-    
-    ![readyplay_4 1](https://github.com/Gael1512/readyplay/assets/52392583/05d0ab02-a471-42d6-970e-79a64a0f48fc)
-
+       Nossa página principal atualmente é o Cadastro. Nele, é preciso que você preencha todas as informações corretamente, para que não aconteça nenhum infortúnio:
+   
+       
+       ![readyplay_4](https://github.com/Gael1512/readyplay/assets/52392583/68f30c43-9822-4372-8246-7db3b9451fcc)
+   
+   
+       Após tudo preenchido corretamente, basta clicar em "Enviar" para ser cadastrado com sucesso! :
+   
+   
+       
+       ![readyplay_4 1](https://github.com/Gael1512/readyplay/assets/52392583/05d0ab02-a471-42d6-970e-79a64a0f48fc)
+   
 
   
   
